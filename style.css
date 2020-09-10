@@ -42,3 +42,7 @@ a:visited{
 .imgs{
     padding: 20px;
 }
+.aboutme{
+    align-content: center;
+    justify-content: space-between;
+}
