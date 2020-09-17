@@ -49,6 +49,9 @@ a{
 .imgs{
     padding: 10px;
 }
+.imgs:hover{
+    transform: scale(1.25);
+}
 .aboutme{
     align-content: center;
     justify-content: space-between;
